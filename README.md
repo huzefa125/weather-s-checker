@@ -1,1 +1,1 @@
-# weather-s-checker
+# weather-s-checker cfg
